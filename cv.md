@@ -9,8 +9,8 @@
 I love reading books. I love self development. I have extensive experience in design.
 
 ## SKILLS ##
-HTML\CSS
-JavaScript - Basic
+* HTML\CSS
+* JavaScript - Basic
 
 ## CODE EXAMPLE ##
 This code is from one of my petproject
